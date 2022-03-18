@@ -1,6 +1,7 @@
 # VueApp
 
 This template should help get you started developing with Vue 3 in Vite.
+This app inculude function read jsonplaceholder api show data and pagination, router etc..
 
 ## Recommended IDE Setup
 
