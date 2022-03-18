@@ -13,7 +13,9 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+npm init vue@latest
 npm install
+npm install vue-router
 ```
 
 ### Compile and Hot-Reload for Development
