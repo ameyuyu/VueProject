@@ -20,7 +20,8 @@ npm install vue-router
 
 ### Compile and Hot-Reload for Development
 
-```sh
+```sh![2022-03-18 16_27_47-localhost_3000](https://user-images.githubusercontent.com/54764740/158956189-a5d14f92-e02f-4c07-a114-aa647b61f288.png)
+
 npm run dev
 ```
 
